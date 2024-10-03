@@ -1,1 +1,1 @@
-console.log(100)
+//Ways to declare a var
