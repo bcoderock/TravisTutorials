@@ -32,11 +32,35 @@ b--;
  c -= 8;
  c *= 5;
  
-//Comparison Operators
-d = 2 == 2;
+//Comparison Operators(Equal)
+d = 2 == '2';//evaluates value and not typeof
+ddd = 2 === '2';//evaluates both value and typeof RECOMMENDED
+e = 3 == 30 ;
+ 
+// Comparison Operators(Not Equal)
+f = 2 != '2';//evaluates value and not typeof
+fff = 2 !== '2';//evaluates both value and typeof RECOMMENDED
+g = 3 != 30 ;
+// Comparison Operators(Greater Than and Less Than)
+h = 12 > '2';
+i = 12 >= '2';
+j = 12 <= '2';
+
+
+
+
 console.log(x);
 console.log(y);
 console.log(z);
 console.log(a);
 console.log(b);
 console.log(c);
+console.log(d);
+console.log(ddd);
+console.log(e);
+console.log(f);
+console.log(fff);
+console.log(g);
+console.log(h);
+console.log(i);
+console.log(j);
