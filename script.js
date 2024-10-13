@@ -32,7 +32,8 @@ b--;
  c -= 8;
  c *= 5;
  
-
+//Comparison Operators
+d = 2 == 2;
 console.log(x);
 console.log(y);
 console.log(z);
