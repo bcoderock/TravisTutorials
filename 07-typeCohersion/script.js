@@ -13,6 +13,8 @@ b = Number(true);
 
 c= Number(false);
 
+
+
 console.log(x, typeof x); 
 console.log(y, typeof y);
 console.log(z, typeof z);
