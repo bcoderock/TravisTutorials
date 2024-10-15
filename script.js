@@ -26,6 +26,9 @@ y =`My name is ${name2} and I am ${age2} years`;//Remember to use the backticks
  a = s._proto_;
 
  a = s.toUpperCase();
+ a = s.toLowerCase();
+
+ a = s.charAt(5);
 
  
 console.log(x);
