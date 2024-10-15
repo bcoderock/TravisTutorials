@@ -15,7 +15,7 @@ score=parseInt(score);
 //Convert string to boolean let score =1;
 //score = Boolean(score);
 
-//We also learnt about Nan 'number'
+//We also learnt about NaN'number'
 
 
 console.log(score,typeof score);
